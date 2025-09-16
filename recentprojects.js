@@ -55,7 +55,8 @@ function loadProjects() {
             <img src="${project.img}" alt="${project.title}" style="height: 100%; width: 100%" />
           </div>
           <div class="card-content">
-            <span class="card-title teal-text hoverline">${project.title}</span>
+            <span class="card-title activator teal-text hoverline">${project.title}<i
+                    class="mdi-navigation-more-vert right"></i></span>
             <p>${project.description}</p>
           </div>
           <div class="card-reveal">
