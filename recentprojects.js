@@ -91,3 +91,4 @@ document.addEventListener("DOMContentLoaded", () => {
   loadProjects();
   document.getElementById("loadbutton").addEventListener("click", loadProjects);
 });
+
