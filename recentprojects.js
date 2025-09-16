@@ -63,14 +63,14 @@ function loadProjects() {
             <ul>
               ${project.accomplishments.map(item => `<li>${item}</li>`).join("")}
             </ul>
-            // <div class="card-action">
-            //   <a href="${project.demo}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey">
-            //     <i class="fa fa-external-link"></i>
-            //   </a>
-            //   <a href="${project.github}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey">
-            //     <i class="fa fa-github"></i>
-            //   </a>
-            // </div>
+            <div class="card-action">
+              <a href="${project.demo}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey">
+                <i class="fa fa-external-link"></i>
+              </a>
+              <a href="${project.github}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey">
+                <i class="fa fa-github"></i>
+              </a>
+            </div>
           </div>
         </div>
       </div>
