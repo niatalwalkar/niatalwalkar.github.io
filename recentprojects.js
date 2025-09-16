@@ -52,7 +52,7 @@ function loadProjects() {
       <div class="col s12 m6 l4">
         <div class="card medium">
           <div class="card-image">
-            <img src="${project.img}" alt="${project.title}" style="height: 100%; width: 100%" />
+            <img src="${project.img}" alt="${project.title}" style="height: 100%; width: 100%", class = "activator" />
           </div>
           <div class="card-content">
             <span class="card-title activator teal-text hoverline">${project.title}<i
@@ -64,14 +64,7 @@ function loadProjects() {
             <ul>
               ${project.accomplishments.map(item => `<li>${item}</li>`).join("")}
             </ul>
-            <div class="card-action">
-              <a href="${project.demo}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey">
-                <i class="fa fa-external-link"></i>
-              </a>
-              <a href="${project.github}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey">
-                <i class="fa fa-github"></i>
-              </a>
-            </div>
+            
           </div>
         </div>
       </div>
