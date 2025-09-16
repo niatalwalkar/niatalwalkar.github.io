@@ -1,6 +1,21 @@
 >Nia Talwalkar ECE44 PRACTICAL 1
 >This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
 
+Activity 1: 
+![Activity 1 Repo Screenshot](assets/img/activity1.png)
+Activity 2:
+![Activity 2 Repo Screenshot](assets/img/activity2_repo.png)
+![Activity 2 Website Screenshot](assets/img/activity2_website.png)
+Activity 3:
+![Activity 3 Repo Screenshot](assets/img/activity3_repo.png)
+![Activity 3 Website Screenshot](assets/img/activity3_website.png)
+Activity 4:
+![Activity 4 Repo Screenshot](assets/img/activity4_repo.png)
+![Activity 4 Website Screenshot](assets/img/activity4_website.png)
+Activity 5:
+![Activity 5 Repo Screenshot](assets/img/activity5_repo.png)
+![Activity 5 Website Screenshot](assets/img/activity5_website.png)
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
